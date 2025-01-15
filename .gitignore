@@ -1,5 +1,9 @@
 HELP.md
 target/
+.mvn/
+.gitattributes
+mvnw
+mvnw.cmd
 
 ### STS ###
 .apt_generated
@@ -28,7 +32,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/.mvn/
-/.gitattributes
-/mvnw
-/mvnw.cmd
