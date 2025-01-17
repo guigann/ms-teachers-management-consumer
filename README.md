@@ -11,7 +11,7 @@ That is the <a href="https://github.com/guigann/ms-teachers-management-consumer"
 1. Clone the repository
 
 ```
-git clone https://github.com/guigann/ms-teachers-management.git
+git clone https://github.com/guigann/ms-teachers-management-consumer.git
 ```
 2. Make sure that maven is installed in the project and that the .jar files are generated in the **/target** folder, otherwise, perform the step below:
 ```
