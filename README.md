@@ -5,6 +5,8 @@ This system uses a feign client to map Instructors to Teachers. Made using a var
 This is the consumer.<br>
 That is the <a href="https://github.com/guigann/ms-teachers-management-consumer" target="_blank"> producer</a>. <br>
 
+### [Documentation](docs/MS%20Teachers%20Management%20Consumer%20V1.pdf)
+
 > :warning: **Make sure to run the producer first**
 > 
 ### How to Run
